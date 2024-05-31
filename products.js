@@ -26,7 +26,7 @@ let products = [
     "title": 'Kitty Litter',
     "description": 'A 25 pound bag of <em>irressistible</em>, organic goodness for your cat.',
     "price": 20.00,
-    "image": 'images/kittyLitter.jpeg',
+    "image": 'images/CatLitter.jpeg',
     // note, for available inventory,in your CW, set it to 10
     "availableInventory": 10, // was '5'
     "rating": 2
@@ -37,7 +37,7 @@ let products = [
     "title": 'Cat House',
     "description": 'A place for your cat to play!',
     "price": 7.99,
-    "image": 'images/catHouse.jpeg',
+    "image": 'images/cathouse.jpeg',
     // note, for available inventory,in your CW, set it to 10
     "availableInventory": 11, // was '5'
     "rating": 5
@@ -48,7 +48,7 @@ let products = [
     "title": 'Laser Pointer',
     "description": 'Drive your cat crazy with this <em>amazing</em> product.',
     "price": 49.99,
-    "image": 'images/laserPointer.jpeg',
+    "image": 'images/laserpointer.jpeg',
     // note, for available inventory,in your CW, set it to 10
     "availableInventory": 25, // was '5'
     "rating": 4
